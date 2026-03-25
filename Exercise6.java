@@ -1,3 +1,4 @@
+//Exercise 6, InvalidGradeException, StudentNotFoundException
 import java.util.Scanner;
 import java.io.*;
 import java.util.InputMismatchException;
