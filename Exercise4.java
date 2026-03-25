@@ -1,3 +1,4 @@
+//Exercise 4, InvalidScorreException
 import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.io.*;
