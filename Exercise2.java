@@ -1,3 +1,4 @@
+//Exercise2, InvalidAgeException
 import java.util.Scanner;
 public class Exercise2
 {
