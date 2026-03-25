@@ -1,3 +1,4 @@
+//Exercise 1, NegativeNumberException
 import java.util.Scanner;
 
 public class Exercise1
